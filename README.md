@@ -1,18 +1,27 @@
 
-Bem-vindo ao meu portfólio de desenvolvimento front-end, onde a arte encontra a funcionalidade para criar experiências digitais cativantes e intuitivas. Sou apaixonado por transformar conceitos em realidade, combinando habilidades técnicas com uma sensibilidade estética aguçada.
+## I am Lorran Henrique, Computer engineer 💻 ⚙️ 🔧
 
-Dentro deste portfólio, você encontrará uma coleção diversificada de projetos que destacam minha capacidade de criar interfaces envolventes e responsivas. Desde websites elegantes até aplicativos web dinâmicos, cada projeto é uma demonstração do meu compromisso com a excelência e inovação no desenvolvimento front-end.
-
-Explore os meus projetos e você encontrará um foco especial em:
-
-1. Design Centrado no Usuário: Priorizo a usabilidade e a acessibilidade em todos os projetos, garantindo que cada interface seja intuitiva e fácil de usar para todos os usuários.
-
-2. Tecnologias Modernas: Utilizo as mais recentes tecnologias front-end, como HTML5, CSS3 e JavaScript, juntamente com frameworks como React, Vue.js e Angular, para criar experiências digitais de última geração.
-
-3. Responsividade e Desempenho: Cada projeto é meticulosamente desenvolvido para oferecer uma experiência consistente e de alto desempenho em uma variedade de dispositivos e tamanhos de tela.
-
-4. Estética e Criatividade: Meu amor pela estética se reflete em designs visualmente atraentes e layouts bem elaborados que capturam a atenção do usuário e comunicam a mensagem da marca de forma eficaz.
-
-Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos inovadores de desenvolvimento front-end. Se você está procurando elevar sua presença digital com designs impressionantes e funcionalidades poderosas, estou pronto para ajudar a transformar sua visão em realidade.
-
-Obrigado por visitar meu portfólio. Estou ansioso para trabalharmos juntos e criar experiências digitais extraordinárias!
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/lorranhenriquee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/XkNXsbnz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lorranlhss@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lorran-henrique-1a89b316a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
