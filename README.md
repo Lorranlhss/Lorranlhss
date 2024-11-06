@@ -42,10 +42,9 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorranlhss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-<br>
-<hr>
 
-💻 Developer with over 5 years of experience, passionate about sharing knowledge and helping people enter the world of programming.
+
+
   
  
 
